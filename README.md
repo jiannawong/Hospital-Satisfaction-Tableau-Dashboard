@@ -41,4 +41,4 @@ Guided by Edward Tufte’s principles of **Graphical Excellence** and **Graphica
 4. **Multi-Hospital Comparison View:** Added a dedicated second dashboard page allowing users to filter by facility, hospital type, ownership, and specific HCAHPS factors to compare top performers side-by-side via horizontal bar charts and facility-level time series.
 
 
-# Created as a team of 5 for Data Visualization Course at UW
+Created as a team of 5 for Data Visualization Course at UW
